@@ -1,4 +1,4 @@
-unité = {
+chiffreEnLettre = {
     0 : "zéro",
     1 : "un",
     2 : "deux",
@@ -9,9 +9,6 @@ unité = {
     7 : "sept",
     8 : "huit",
     9 : "neuf",
-}
-
-dizaine = {
     10 : "dix",
     11 : "onze",
     12 : "douze", 
@@ -26,7 +23,13 @@ dizaine = {
     60 : "soixante",
     70 : "septante",
     80 : "quatre-vingt",
-    90 : "nonante"
+    90 : "nonante",
+    00 : "cent",
+    000 : "mille",
 }
 
+Userinput = input("Veuillez entré un chiffre : ")
+result = [int(a) for a in str(Userinput)]
+nombreEnChiffre = Userinput
+print(result)
 
