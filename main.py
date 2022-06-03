@@ -34,3 +34,7 @@ chiffreEnLettre = {
 Userinput = input("Veuillez entré un chiffre : ")
 nombreEnChiffre = [int(a) for a in str(Userinput)]
 
+print("`~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`")
+print(f"Voici l'array : {nombreEnChiffre}")
+print("`~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`")
+
