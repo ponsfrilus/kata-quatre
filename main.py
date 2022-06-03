@@ -54,3 +54,5 @@ def deuxChiffre(nombreEnChiffre):
     else:
         resultat = chiffreEnLettre[dizaine] + "-" + chiffreEnLettre[unité]
     return resultat
+
+print(deuxChiffre(nombreEnChiffre))
