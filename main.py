@@ -41,3 +41,5 @@ print("`~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`")
 def plusPetitQueVingt(nombreEnChiffre) :
     for x in nombreEnChiffre:
         print(x,chiffreEnLettre[x])
+
+plusPetitQueVingt(nombreEnChiffre)
