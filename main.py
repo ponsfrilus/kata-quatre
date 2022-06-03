@@ -16,6 +16,9 @@ chiffreEnLettre = {
     14 : "quatorze", 
     15 : "quinze", 
     16 : "seize",
+    17 : "dix-sept",
+    18 : "dix-huit",
+    19 : "dix-neuf",
     20 : "vingt",
     30 : "trente",
     40 : "quarante",
@@ -29,7 +32,5 @@ chiffreEnLettre = {
 }
 
 Userinput = input("Veuillez entré un chiffre : ")
-result = [int(a) for a in str(Userinput)]
-nombreEnChiffre = Userinput
-print(result)
+nombreEnChiffre = [int(a) for a in str(Userinput)]
 
