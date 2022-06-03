@@ -43,3 +43,14 @@ def plusPetitQueVingt(nombreEnChiffre) :
         print(x,chiffreEnLettre[x])
 
 plusPetitQueVingt(nombreEnChiffre)
+
+def deuxChiffre(nombreEnChiffre):
+    dizaine = nombreEnChiffre[0]*10 
+    unité = + nombreEnChiffre[1]
+    nbDeuxChiffre = dizaine + unité
+
+    if nbDeuxChiffre <= 20:
+        resultat = chiffreEnLettre[nbDeuxChiffre]
+    else:
+        resultat = chiffreEnLettre[dizaine] + "-" + chiffreEnLettre[unité]
+    return resultat
