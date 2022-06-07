@@ -80,8 +80,10 @@ convenons que 4 est magique.
 
 
 ## Je l'ai fait 💪
-
 * La version de [@octocat](https://github.com/octocat) a été faite en `langage` et est disponible [ici](https://#).
+* La version de [@D4rkHeart](https://github.com/D4rkHeart) a été faite en `python` et est disponible [ici](https://github.com/D4rkHeart/kata-quatre).
+
+
 
 
 ## Pour aller plus loin
