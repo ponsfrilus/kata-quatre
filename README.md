@@ -85,6 +85,7 @@ convenons que 4 est magique.
 ## Je l'ai fait 💪
 
 * La version de [@octocat](https://github.com/octocat) a été faite en `langage` et est disponible [ici](https://#).
+* La version de [@dwesh163](https://github.com/dwesh163/) a été faite en `Go` et est disponible [ici](https://github.com/dwesh163/kata-quatre/tree/dwesh163/Go).
 
 
 ## Pour aller plus loin
